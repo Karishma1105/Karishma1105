@@ -4,7 +4,7 @@
 
  Aspriring Software Developer | Web Innovator | Community Leader
 
-Hello! I'm Karishma Kanagaraj, a passionate **Computer Science Engineering** student with a deep interest in **web development**,**Software Development ** and **data structures**. As someone who believes in the power of technology to create meaningful impact, I aim to drive innovation through code, collaboration, and community involvement.
+Hello! I'm Karishma Kanagaraj, a passionate **Computer Science Engineering** student with a deep interest in **web development**, **Software Development** and **data structures**. As someone who believes in the power of technology to create meaningful impact, I aim to drive innovation through code, collaboration, and community involvement.
 
 
 
@@ -32,6 +32,9 @@ During my internship at ELGI Equipments, I worked on a project developing a Digi
 
 Awarded Best Performer for excellence in Digital Twin Development.
 Gained hands-on experience in simulation technologies, frontend development, and production scheduling.
+
+
+
 **🏢 DNYX Business Solutions — Intern (Frontend Developer)**
 As an intern at DNYX Business Solutions, I am responsible for building websites that meet the unique requirements of each client. This experience has strengthened my ability to design tailored web solutions while working closely with clients to bring their vision to life.
 
