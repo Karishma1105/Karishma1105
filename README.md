@@ -10,8 +10,7 @@ Hello! I'm Karishma Kanagaraj, a passionate **Computer Science Engineering** stu
 
 ## 👩‍💻 About Me
 
-- **Current Role**: Software Developer and Community Manager.
-- **Passions**: Web Development, Data Structures, Machine Learning, Tech Communities.
+- **Passions**: Web Development, Data Structures,  Tech Communities.
 - **Achievements**:
   - Led multiple **Google Developer Student Club** (GDSC) initiatives.
   - Volunteered for the **Agile Community Coimbatore Chapter**.
