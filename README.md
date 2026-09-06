@@ -5,7 +5,7 @@
 I work across the stack, from React interfaces to Python backends, and I am increasingly drawn to using AI and automation to solve real problems rather than just add buzzwords to a resume. My projects are live, deployed, and built to actually be used.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karishmakanagaraj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karishma-portfolio-iota.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karishmakanagaraj-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karishmakanagaraj05@gmail.com)
 
 ---
@@ -75,8 +75,8 @@ Drove Agile Scrum workflows and tracked 50+ tasks via Jira, accelerating sprint 
 
 ## Projects
 
-**Mr. Kattapaa - AI WhatsApp Quotation Agent**
-An AI-powered WhatsApp automation platform using n8n, Python, Supabase, MCP, and REST APIs, delivering multilingual quotation generation with 90%+ response accuracy. Systematized PDF generation with dynamic templates, reducing document turnaround time by 70%.
+**Mr. Kattapaa - AI WhatsApp Quotation Agent (Team Project)**
+Contributed to an AI-powered WhatsApp automation platform built at Funbook Software, using n8n, Python, delivering multilingual quotation generation with 90%+ response accuracy. Helped systematize PDF generation with dynamic templates, reducing document turnaround time by 70%.
 
 **ResearchIQ - AI-Powered Academic Research Assistant**
 A full-stack AI research platform using React, TypeScript, FastAPI, and Python, integrating LLM APIs and academic databases to automate literature reviews and gap analysis. Includes an interactive chat interface with AI paper summarization, research gap analysis, and automated PDF reports, deployed on Vercel and Render.
